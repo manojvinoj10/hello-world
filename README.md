@@ -1,5 +1,3 @@
-<img src="https://quotefancy.com/media/wallpaper/1600x900/3454-Aristotle-Quote-The-more-you-know-the-more-you-know-you-don-t-know.jpg" alt="GitHub Banner" width="1000">
-
 # 👋 Hi, I'm Manoj Kannan  
 
 ### 🚀 QA Automation Lead | 10+ Years in Software Quality | Test Automation Strategist  
@@ -52,11 +50,6 @@ SQL • Snowflake • DBT (in progress) • Azure • AWS
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkannan10)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoj.kannan.chn@gmail.com)  
